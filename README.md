@@ -1,13 +1,13 @@
-![ScreenShot](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1273601%2Fstaging.toptal.net_css_full-page-slider-css-and-javascript-91e18f95494a26c1d6c26dacd2097e77.png)
+https://i0.wp.com/codemyui.com/wp-content/uploads/2017/09/rotate-pulsating-loading-animation.gif?fit=880%2C440&ssl=1
+![ScreenShot]()
 ### Hi there 👋
-
 this is a ✨ _special_ ✨ repository because its Mine.
 
 
 <h1 align="center">Hi 👋, I'm Rama</h1>
 <h3 align="center">Hai Im Student and I focusing on Frontend & Backend Developer</h3>
 
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="code Image" width="400px" height="300px" style="align-items:center; justify-content:center;" />
+<img src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1273601%2Fstaging.toptal.net_css_full-page-slider-css-and-javascript-91e18f95494a26c1d6c26dacd2097e77.png" alt="code Image" width="400px" height="300px" style="align-items:center; justify-content:center;" />
 
 Here are some ideas to get you started:
 
