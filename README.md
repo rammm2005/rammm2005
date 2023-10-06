@@ -1,5 +1,5 @@
-https://i0.wp.com/codemyui.com/wp-content/uploads/2017/09/rotate-pulsating-loading-animation.gif?fit=880%2C440&ssl=1
-![ScreenShot]()
+
+![ScreenShot](https://i0.wp.com/codemyui.com/wp-content/uploads/2017/09/rotate-pulsating-loading-animation.gif?fit=880%2C440&ssl=1)
 ### Hi there 👋
 this is a ✨ _special_ ✨ repository because its Mine.
 
