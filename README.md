@@ -1,4 +1,4 @@
-![ScreenShot]([https://i.pinimg.com/564x/48/46/3e/48463e16cb838659648f990db4a5b562.jpg](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1273601%2Fstaging.toptal.net_css_full-page-slider-css-and-javascript-91e18f95494a26c1d6c26dacd2097e77.png))
+![ScreenShot](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1273601%2Fstaging.toptal.net_css_full-page-slider-css-and-javascript-91e18f95494a26c1d6c26dacd2097e77.png)
 ### Hi there 👋
 
 this is a ✨ _special_ ✨ repository because its Mine.
