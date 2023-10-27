@@ -12,7 +12,7 @@ this is a ✨ _special_ ✨ repository because its Mine.
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Fullstack Dev
-- ⚡ Fun fact **What Ever you**
+- ⚡ Fun fact **I love Football and Games so Much**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
