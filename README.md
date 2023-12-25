@@ -1,10 +1,6 @@
 
 ### Hi there 👋
 this is a ✨ _special_ ✨ repository because its Mine.
-
-<div align="center">
-<img src="https://pin.it/6IPs3VL" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm I'm Rama,  I focusing on Frontend </> Backend Developer && Software Engginer 👨‍💻 studying since 2021 🚀</div>  
