@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I love Football and Games so Much**
 
 <h3 align="left">Connect with me:</h3>
-# 🌐 Social:
-# 🌐 Social:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mep.nomercy/) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mep.nomercy/)
-
+## 🌐 Social:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mep.nomercy) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mep.nomercy) 
 
 # 💻🔥 Tech Stack:
 <!DOCTYPE html>
