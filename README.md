@@ -7,7 +7,7 @@ this is a ✨ _special_ ✨ repository because its Mine.
 </div>  
   
 
-### <div align="center">I'm I'm Rama,  I focusing on Frontend & Backend Developer and Software Engginer 👨‍💻 studying since 2021 🚀</div>  
+### <div align="center">I'm I'm Rama,  I focusing on Frontend </> Backend Developer && Software Engginer 👨‍💻 studying since 2021 🚀</div>  
   
 
 - 🔭 I’m currently Study on [Universitas Udayana](https://www.unud.ac.id/)  
@@ -131,7 +131,5 @@ this is a ✨ _special_ ✨ repository because its Mine.
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
