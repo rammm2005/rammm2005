@@ -113,7 +113,7 @@ this is a ✨ _special_ ✨ repository because its Mine.
 <br/>  
 
 
-## Recent Blog Posts 🎵🎚️
+## Music Playlist 🎵🎚️
   
 
 <br/>  
