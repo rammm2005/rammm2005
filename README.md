@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 # 🌐 Social:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mep.nomercy/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mep.nomercy/) 
+# 🌐 Social:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mep.nomercy/) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mep.nomercy/)
+
 
 # 💻🔥 Tech Stack:
 <!DOCTYPE html>
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Technology Icons</title>
 </head>
 <body>
 
