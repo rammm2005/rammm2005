@@ -106,7 +106,7 @@ this is a ✨ _special_ ✨ repository because its Mine.
 
 
 ## Github Stats  
-<div align="center" justify-content="space-beetwen">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rammm2005&show_icons=true&count_private=true&hide_border=true" align="right" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammm2005&hide_border=true&layout=compact" align="left" />  
 </div>  
