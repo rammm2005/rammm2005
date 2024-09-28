@@ -3,7 +3,7 @@
 this is a ✨ _special_ ✨ repository because its Mine.
   
 
-### <div align="center">I'm Rama, I focusing on Frontend </> Backend Developer && Software Engginer 👨‍💻 studying since 2021 🚀</div>  
+### <div align="center">I'm Rama, I focusing on Frontend </> Backend Developer && Software Engginer 👨‍💻 studying since 2022 🚀</div>  
   
 
 - 🔭 I’m currently Study on [Universitas Udayana](https://www.unud.ac.id/)  
