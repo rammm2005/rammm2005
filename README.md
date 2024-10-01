@@ -123,8 +123,9 @@ this is a ✨ _special_ ✨ repository because its Mine.
 <a href="https://instagram.com/callmerammz" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-
-<a href="https://www.hackerearth.com/@ditarama985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ditarama985" height="30" width="40" /> Hacker Rank</a>
+<p align="left">
+<a href="https://www.hackerearth.com/@ditarama985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ditarama985" height="30" width="40" /></a>
+</p>
 
 </div>  
   
