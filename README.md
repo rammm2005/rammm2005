@@ -132,9 +132,9 @@ this is a ✨ _special_ ✨ repository because its Mine.
 
 
 ## Github Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=rammm2005&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rammm2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rammm2005&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rammm2005&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rammm2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>  
 
