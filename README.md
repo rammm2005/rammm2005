@@ -66,7 +66,7 @@ this is a ✨ _special_ ✨ repository because its Mine.
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 </a>
 <a href="https://nestjs.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" height="50" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055" alt="NestJS" height="50" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
