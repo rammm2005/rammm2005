@@ -178,7 +178,7 @@ A **single unified codebase** where all modules—frontend, backend, and databas
 <!-- Activity / Streak Graph -->
 <h3>🔥 Contribution & Streak Graph</h3>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rammm2005&bg_color=0d1117&color=70a5fd&line=70a5fd&point=1adbce&area_color=0d1117&hide_border=true&custom_title=streak%20graph" />
+<img src="https://github.com/rammm2005/rammm2005/blob/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
 </a>
 
 </div>
