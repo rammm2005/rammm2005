@@ -96,7 +96,7 @@ this is a ✨ _special_ ✨ repository because its Mine.
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
 </a>
 <a href="https://cpanel.net/" target="_blank">
-  <img style="margin: 10px" src="https://seeklogo.com/images/C/cpanel-logo-E2CA7E55C6-seeklogo.com.png" alt="cPanel" height="50" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CPanel_logo.svg/231px-CPanel_logo.svg.png?20220727004930" alt="cPanel" height="50" />
 </a>
 <a href="https://github.com/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" />
