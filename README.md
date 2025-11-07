@@ -166,10 +166,6 @@ A **single unified codebase** where all modules—frontend, backend, and databas
 <a href="https://github.com/rammm2005">
   <img src="https://github-readme-stats.vercel.app/api?username=rammm2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px" />
 </a>
-<a href="https://github.com/rammm2005">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rammm2005&theme=tokyonight&hide_border=true" height="180px" />
-</a>
-
 <br/><br/>
 
 <!-- Top Languages -->
