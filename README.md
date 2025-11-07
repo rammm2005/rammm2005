@@ -57,7 +57,9 @@ this is a ✨ _special_ ✨ repository because its Mine.
 
 ### ⚙️ Backend  
 <div align="center">
-
+<a href="https://python.org/" target="_blank">
+  <img style="margin: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" />
+</a>
 <a href="https://expressjs.com/" target="_blank">
   <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" />
 </a>
