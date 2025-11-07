@@ -175,12 +175,6 @@ A **single unified codebase** where all modules—frontend, backend, and databas
 
 <br/><br/>
 
-<!-- Activity / Streak Graph -->
-<h3>🔥 Contribution & Streak Graph</h3>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github.com/rammm2005/rammm2005/blob/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
-</a>
-
 </div>
 
 
