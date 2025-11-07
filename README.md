@@ -78,6 +78,9 @@ this is a ✨ _special_ ✨ repository because its Mine.
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" height="50" />
 </a>
 <a href="https://echo.labstack.com/" target="_blank">
+  <img style="margin: 10px; border-radius: 8px;" src="https://raw.githubusercontent.com/labstack/echo/master/website/static/img/logo.png" alt="Echo Framework" height="50" />
+</a>
+<a href="https://echo.labstack.com/" target="_blank">
   <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5077251?s=200&v=4" alt="Echo Framework" height="50" />
 </a>
 
