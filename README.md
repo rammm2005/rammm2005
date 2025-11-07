@@ -24,92 +24,87 @@ this is a ✨ _special_ ✨ repository because its Mine.
 
 ## 🧠 My Skill Set  
 
-<table>
-<tr>
-<td valign="top" width="33%">
+---
 
-### 🎨 Frontend
+### 🎨 Frontend  
 <div align="center">
 
 <a href="https://reactjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+  <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />
 </a>
 <a href="https://nextjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" />
+  <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="60" />
 </a>
 <a href="https://vuejs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+  <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="60" />
 </a>
 <a href="https://svelte.dev/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" height="50" />
+  <img style="margin: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" height="60" />
 </a>
 <a href="https://reactnative.dev/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" />
+  <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="60" />
 </a>
 <a href="https://flutter.dev/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
+  <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="60" />
 </a>
 <a href="https://developer.android.com/studio" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="50" />
+  <img style="margin: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="60" />
 </a>
 
 </div>
 
-</td>
+---
 
-<td valign="top" width="33%">
-
-### ⚙️ Backend
+### ⚙️ Backend  
 <div align="center">
 
 <a href="https://expressjs.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+  <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" />
 </a>
 <a href="https://nestjs.com/" target="_blank">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055" alt="NestJS" height="50" />
+  <img style="margin: 12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055" alt="NestJS" height="60" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
+  <img style="margin: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" height="60" />
 </a>
 <a href="https://laravel.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
+  <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="60" />
 </a>
 <a href="https://go.dev/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" height="50" />
+  <img style="margin: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" height="60" />
 </a>
+<a href="https://echo.labstack.com/" target="_blank">
+  <img style="margin: 12px; border-radius: 10px;" src="https://raw.githubusercontent.com/labstack/echo/master/website/static/img/logo.png" alt="Echo Framework" height="60" />
+</a>
+
 </div>
 
-</td>
+---
 
-<td valign="top" width="33%">
-
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps  
 <div align="center">
 
 <a href="https://aws.amazon.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+  <img style="margin: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" />
 </a>
 <a href="https://cloud.google.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="50" />
+  <img style="margin: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="60" />
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
+  <img style="margin: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="60" />
 </a>
 <a href="https://cpanel.net/" target="_blank">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CPanel_logo.svg/231px-CPanel_logo.svg.png?20220727004930" alt="cPanel" height="50" />
+  <img style="margin: 12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CPanel_logo.svg/231px-CPanel_logo.svg.png?20220727004930" alt="cPanel" height="60" />
 </a>
 <a href="https://github.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" />
+  <img style="margin: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="60" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Continuous_integration" target="_blank">
-  <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="CI/CD" height="50" />
+  <img style="margin: 12px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="CI/CD" height="60" />
 </a>
 
 </div>
 
-</td>
-</tr>
-</table>
 
 ---
 
