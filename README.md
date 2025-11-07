@@ -27,23 +27,49 @@ this is a ✨ _special_ ✨ repository because its Mine.
 
 
 
-### Skills
+### 🧠 Tech Stack
+
 <div align="center">
 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" /></a>
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/184358387-08bf9da1-ec16-43aa-9235-708d1d37b4e0.png" alt="Golang" height="50" /></a>
-<a href="https://echo.labstack.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5077251?s=200&v=4" alt="Echo" height="50" /></a>
-<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" /></a>
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
-<a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/Continuous_integration" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="CI/CD" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" height="50" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" />
+</a>
+<a href="https://laravel.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
+</a>
+<a href="https://go.dev/" target="_blank">
+  <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/184358387-08bf9da1-ec16-43aa-9235-708d1d37b4e0.png" alt="Golang" height="50" />
+</a>
+<a href="https://echo.labstack.com/" target="_blank">
+  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5077251?s=200&v=4" alt="Echo" height="50" />
+</a>
+<a href="https://reactnative.dev/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" />
+</a>
+<a href="https://flutter.dev/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
+</a>
+<a href="https://developer.android.com/studio" target="_blank">
+  <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" height="50" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Continuous_integration" target="_blank">
+  <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="CI/CD" height="50" />
+</a>
 
 </div>
+
 
 </td></tr></table>  
 
