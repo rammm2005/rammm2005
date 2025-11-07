@@ -37,6 +37,12 @@ this is a ✨ _special_ ✨ repository because its Mine.
 <a href="https://nextjs.org/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" />
 </a>
+<a href="https://vuejs.org/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+</a>
+<a href="https://svelte.dev/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" height="50" />
+</a>
 <a href="https://reactnative.dev/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" />
 </a>
@@ -59,6 +65,12 @@ this is a ✨ _special_ ✨ repository because its Mine.
 <a href="https://expressjs.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 </a>
+<a href="https://nestjs.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" height="50" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
+</a>
 <a href="https://laravel.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
 </a>
@@ -68,11 +80,6 @@ this is a ✨ _special_ ✨ repository because its Mine.
 <a href="https://echo.labstack.com/" target="_blank">
   <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5077251?s=200&v=4" alt="Echo Framework" height="50" />
 </a>
-
-<br/>
-
-<code>🧩 Microservice Architecture</code> &nbsp;|&nbsp; 
-<code>🏗️ Monolithic Architecture</code>
 
 </div>
 
@@ -107,6 +114,35 @@ this is a ✨ _special_ ✨ repository because its Mine.
 </td>
 </tr>
 </table>
+
+---
+
+## 🏗️ Software Architecture Styles  
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧩 Microservices Architecture  
+A **modular system design** where applications are divided into small, **independent services**, each handling a specific business function (e.g., authentication, payments, notifications).  
+- Enables independent deployment, scaling, and maintenance.  
+- Commonly built with **Docker**, **Kubernetes**, and **REST/GraphQL APIs**.  
+- Great for large, distributed, and rapidly evolving applications.
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🏗️ Monolithic Architecture  
+A **single unified codebase** where all modules—frontend, backend, and database—operate as one system.  
+- Easier to develop, test, and deploy for smaller teams or MVPs.  
+- Ideal for applications with tightly integrated components.  
+- Can later evolve into microservices as the project scales.
+
+</td>
+</tr>
+</table>
+
 
 
 <br/>  
