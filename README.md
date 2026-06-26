@@ -12,7 +12,7 @@ this is a ✨ _special_ ✨ repository because its Mine.
 - 🌱 I’m currently learning Self Control   
   
 
-- ❓ Ask me about anything related to MERN stack, related technologies and Football ⚽  
+- ❓ Ask me about anything related to Software Engineering, related technologies and Football ⚽  
   
 
 - ⚡ Fun fact: Fast Inspiration and Creativition  
