@@ -47,7 +47,7 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="50" /></a>&nbsp;&nbsp;
   <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="50" /></a>&nbsp;&nbsp;
   <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Golang" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://echo.labstack.com/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Echo Framework (Go)" height="50" /></a>
+  <a href="https://echo.labstack.com/" target="_blank"><img src="./images/echo-logo.png" alt="Echo Framework (Go)" height="50" /></a>
    <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="Express.js" height="50" /></a>&nbsp;&nbsp;
 </div>
 
