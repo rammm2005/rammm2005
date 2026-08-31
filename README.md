@@ -92,7 +92,7 @@
 A **modular system design** — small, **independent services** each handling a specific business function.
 
 - ✅ Independent deployment & scaling
-- ✅ Docker, Kubernetes, REST/GraphQL
+- ✅ Docker, Kubernetes, REST/GraphQL, gRPC Protocol
 - ✅ Great for large distributed systems
 
 </td>
